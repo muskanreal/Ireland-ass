@@ -1,0 +1,18 @@
+.flag{
+    height:350px ;
+    width: 600px;
+    border: 1px solid black;
+    display: flex;
+}
+.first {
+    width: 200px;
+    background-color: #0e9c62;   
+}
+.second{
+    background-color: #ffffff;
+    width: 200px;  
+}
+.third {
+    background-color: #ff893c;
+    width: 200px;
+}
